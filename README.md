@@ -7,3 +7,5 @@ admin credentials:
 
   username:namansngh64     
   password:naman
+  
+  Import the attached sql file too for its working.
