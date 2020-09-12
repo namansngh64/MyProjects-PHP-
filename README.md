@@ -5,5 +5,5 @@ NOTE:- Due to limited features of xampp i was not able to convert the html file 
 
 admin credentials:
 
-  username:namansngh64
+  username:namansngh64     
   password:naman
