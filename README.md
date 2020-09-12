@@ -1,6 +1,8 @@
 # MyProjects-PHP-
 First project on php
 Type of e-comm site for one vendor and multiple buyers.Buyers can req to buy one product at a time and if he wants to by more than one than he has to req again for buying and vendor can accept or decline request.
+
+
 admin credentials: 
   username:namansngh64
   password:naman  
