@@ -8,6 +8,6 @@ admin credentials:
 
   username:namansngh64      
   password:naman  
-NOTE:-You will have to import the attached sql fie for this to work!
+NOTE:-You will have to import the attached sql file for this to work!
 Also some functions like mail() was not working in xampp for some reason so in otp verification,the otp is by default entered in the text field. 
 
